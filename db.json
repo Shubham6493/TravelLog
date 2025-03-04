@@ -89,363 +89,365 @@
       }
     ],
     "destinations": [
-      {
-        "name": "Amsterdam",
-        "country": "Netherlands",
-        "description": "Amsterdam is the capital of the Netherlands, known for its picturesque canals, historic architecture, and vibrant cultural scene.",
-        "attractions": [
-          "Rijksmuseum",
-          "Van Gogh Museum",
-          "Anne Frank House"
-        ],
-        "estimatedCost": "4000",
-        "rating": "4.5", 
-        "activity": [
-          "Boat Tour",
-          "Biking",
-          "Visiting Coffee Shops"
-        ],
-        "food": [
-          "Stroopwafel",
-          "Poffertjes",
-          "Herring"
-        ],
-        "id": "1",
-        "img": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjE5NTF8MHwxfHNlYXJjaHwxfHxBbXN0ZXJkYW18ZW58MHx8fHwxNjg5ODM5MTUwfDA&ixlib=rb-4.0.3&q=80&w=1080"
-      },
-      {
-        "name": "Rotterdam",
-        "country": "Netherlands",
-        "description": "Rotterdam is a modern city with innovative architecture, lively festivals, and a bustling port, making it a must-visit destination.",
-        "attractions": [
-          "Euromast Tower",
-          "Markthal",
-          "Kinderdijk Windmills"
-        ],
-        "estimatedCost": "3500",
-        "rating": "4.2",
-        "activity": [
-          "Cube Houses Tour",
-          "Harbor Cruise",
-          "Cycling in Kralingse Bos"
-        ],
-        "food": [
-          "Bitterballen",
-          "Haring",
-          "Erwtensoep"
-        ],
-        "id": "2",
-        "img": "https://images.unsplash.com/photo-1572202378710-71d8b1cce96c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjE5NTF8MHwxfHNlYXJjaHwxfHxSb3R0ZXJkYW18ZW58MHx8fHwxNjg5ODM5MTUxfDA&ixlib=rb-4.0.3&q=80&w=1080"
-      },
-      {
-        "name": "Utrecht",
-        "country": "Netherlands",
-        "description": "Utrecht is a charming city with beautiful canals, historic buildings, and a lively university culture.",
-        "attractions": [
-          "Dom Tower",
-          "Museum Speelklok",
-          "Griftpark"
-        ],
-        "estimatedCost": "2500",
-        "rating": "4.0",
-        "activity": [
-          "Exploring Canals",
-          "Climbing Dom Tower",
-          "Visiting Local Cafes"
-        ],
-        "food": [
-          "Stamppot",
-          "Oliebollen",
-          "Appeltaart"
-        ],
-        "id": "3",
-        "img": "https://images.unsplash.com/photo-1564085027787-7f8911ca8d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjE5NTF8MHwxfHNlYXJjaHwxfHxVdHJlY2h0fGVufDB8fHx8MTY4OTg1NzUzMXww&ixlib=rb-4.0.3&q=80&w=1080"
-      },
-      {
-        "name": "The Hague",
-        "country": "Netherlands",
-        "description": "The Hague is the seat of the Dutch government and boasts elegant architecture, beautiful beaches, and world-class museums.",
-        "attractions": [
-          "Binnenhof",
-          "Mauritshuis",
-          "Scheveningen Beach"
-        ],
-        "estimatedCost": "3000",
-        "rating": "4.3",
-        "activity": [
-          "Visiting Peace Palace",
-          "Beach Volleyball",
-          "Museum Hopping"
-        ],
-        "food": [
-          "Haring met Ui",
-          "Haagse Hopjes",
-          "Poffertjes"
-        ],
-        "id": "4"
-   
-   ,"img":"https://images.unsplash.com/photo-1551039495-a95308f3f6b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VGhlJTIwaGFndWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"   },
-      {
-        "name": "Maastricht",
-        "country": "Netherlands",
-        "description": "Maastricht is a charming city with medieval architecture, cobblestone streets, and a rich history dating back to Roman times.",
-        "attractions": [
-          "Vrijthof Square",
-          "Bonnefanten Museum",
-          "St. Servaasbrug"
-        ],
-        "estimatedCost": "2800",
-        "rating": "4.1",
-        "activity": [
-          "Strolling in Old Town",
-          "Boat Cruise on Meuse River",
-          "Visit Caves"
-        ],
-        "food": [
-          "Limburgse Vlaai",
-          "Zuurvlees",
-          "Bock Beer"
-        ],
-        "id": "5"
-   
-   ,"img":"https://images.unsplash.com/photo-1631107452534-b8f9868a8b20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFhc3RyaWNodHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"   },
-      {
-        "name": "Krakow",
-        "country": "Poland",
-        "description": "Krakow is a historic city with a rich cultural heritage, featuring a stunning medieval Old Town, impressive architecture, and a vibrant arts scene.",
-        "attractions": [
-          "Wawel Castle",
-          "Main Market Square",
-          "Auschwitz-Birkenau Memorial"
-        ],
-        "estimatedCost": "3500",
-        "rating": "4.6",
-        "activity": [
-          "Wawel Cathedral Tour",
-          "Rynek Underground Museum",
-          "Exploring Kazimierz District"
-        ],
-        "food": [
-          "Pierogi",
-          "Obwarzanek Krakowski",
-          "Zurek"
-        ],
-        "id": "6"
-   
-   ,"img":"https://images.unsplash.com/photo-1562050380-55da3bae840c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S3Jha293fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"   },
-      {
-        "name": "Warsaw",
-        "country": "Poland",
-        "description": "Warsaw, the capital city, is a vibrant metropolis with a mix of modern skyscrapers and meticulously reconstructed historical landmarks, symbolizing the nation's resilience.",
-        "attractions": [
-          "Royal Castle",
-          "Łazienki Park",
-          "Warsaw Uprising Museum"
-        ],
-        "estimatedCost": "4000",
-        "rating": "4.5",
-        "activity": [
-          "Old Town Walking Tour",
-          "Vistula River Cruise",
-          "Chopin Concert"
-        ],
-        "food": [
-          "Pierogi",
-          "Kielbasa",
-          "Bigos"
-        ],
-        "id": "7"
-   
-   ,"img":"https://images.unsplash.com/photo-1607078486875-a697a8a38e87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2Fyc2F3fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"   },
-      {
-        "name": "Gdansk",
-        "country": "Poland",
-        "description": "Gdansk is a picturesque coastal city with a fascinating maritime history, characterized by colorful buildings, charming streets, and Baltic Sea views.",
-        "attractions": [
-          "Long Market",
-          "St. Mary's Church",
-          "Westerplatte"
-        ],
-        "estimatedCost": "3000",
-        "rating": "4.4",
-        "activity": [
-          "Strolling along Motława River",
-          "Visiting Solidarity Museum",
-          "Relaxing at Sopot Beach"
-        ],
-        "food": [
-          "Smoked Fish",
-          "Pierogi filled with Seafood",
-          "Pomuchla"
-        ],
-        "id": "8"
-   
-   ,"img":"https://images.unsplash.com/photo-1623130622557-8fab31968b8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R2RhbnNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"   },
-      {
-        "name": "Wroclaw",
-        "country": "Poland",
-        "description": "Wroclaw is a charming city known for its beautifully preserved medieval architecture, lively Market Square, and numerous bridges over the Oder River.",
-        "attractions": [
-          "Ostrów Tumski",
-          "Racławice Panorama",
-          "Centennial Hall"
-        ],
-        "estimatedCost": "2800",
-        "rating": "4.3",
-        "activity": [
-          "Odra River Cruise",
-          "Gnomes Hunting",
-          "Botanical Garden Visit"
-        ],
-        "food": [
-          "Kluski Śląskie",
-          "Żurek",
-          "Karkówka"
-        ],
-        "id": "9"
-   
-   ,"img":"https://images.unsplash.com/photo-1563177978-4c5ffc081b2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V3JvY2xhd3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"   },
-      {
-        "name": "Zakopane",
-        "country": "Poland",
-        "description": "Zakopane is a popular mountain resort town nestled in the Tatra Mountains, known for its stunning landscapes, ski slopes, and unique Goral culture.",
-        "attractions": [
-          "Tatra National Park",
-          "Krupówki Street",
-          "Gubałówka Hill"
-        ],
-        "estimatedCost": "3200",
-        "rating": "4.7",
-        "activity": [
-          "Hiking in Tatra Mountains",
-          "Skiing",
-          "Thermal Baths at Chochołowskie Termy"
-        ],
-        "food": [
-          "Oscypek",
-          "Kwaśnica",
-          "Krupnik"
-        ],
-        "id": "10"
-  
-  ,"img":"https://images.unsplash.com/photo-1585297681097-97293f29475d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8WmFrb3BhbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"    },
-      {
-        "name": "Toronto",
-        "country": "Canada",
-        "description": "Toronto is Canada's largest city, a vibrant metropolis with diverse neighborhoods, iconic landmarks like the CN Tower, and a thriving arts and culture scene.",
-        "attractions": [
-          "CN Tower",
-          "Royal Ontario Museum",
-          "Distillery District"
-        ],
-        "estimatedCost": "4500",
-        "rating": "4.7",
-        "activity": [
-          "Harbourfront Centre",
-          "Explore Toronto Islands",
-          "Visit Kensington Market"
-        ],
-        "food": [
-          "Poutine",
-          "Peameal Bacon Sandwich",
-          "Butter Tarts"
-        ],
-        "id": "11"
-  
-  ,"img":"https://images.unsplash.com/photo-1486325212027-8081e485255e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VG9yb250b3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
-      {
-        "name": "Vancouver",
-        "country": "Canada",
-        "description": "Vancouver is a coastal city known for its stunning natural beauty, surrounded by mountains and ocean, offering a mix of outdoor activities and urban experiences.",
-        "attractions": [
-          "Stanley Park",
-          "Granville Island",
-          "Capilano Suspension Bridge"
-        ],
-        "estimatedCost": "5000",
-        "rating": "4.6",
-        "activity": [
-          "Grouse Mountain Hike",
-          "Seawall Biking",
-          "Explore Gastown"
-        ],
-        "food": [
-          "Salmon",
-          "Japadog",
-          "Nanaimo Bar"
-        ],
-        "id": "12"
-  
-  ,"img":"https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VmFuY291dmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
-      {
-        "name": "Montreal",
-        "country": "Canada",
-        "description": "Montreal is a vibrant city with a strong French influence, known for its historic architecture, artsy neighborhoods, and lively festivals.",
-        "attractions": [
-          "Old Montreal",
-          "Montreal Museum of Fine Arts",
-          "Mount Royal Park"
-        ],
-        "estimatedCost": "4000",
-        "rating": "4.5",
-        "activity": [
-          "Explore Plateau-Mont-Royal",
-          "Bike along Lachine Canal",
-          "Experience Jazz Festival"
-        ],
-        "food": [
-          "Bagels",
-          "Poutine",
-          "Smoked Meat Sandwich"
-        ],
-        "id": "13"
-  
-  ,"img":"https://images.unsplash.com/photo-1470181942237-78ce33fec141?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9udHJlYWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"    },
-      {
-        "name": "Banff",
-        "country": "Canada",
-        "description": "Banff is a picturesque resort town located in the Rocky Mountains, offering stunning alpine landscapes, hot springs, and abundant wildlife.",
-        "attractions": [
-          "Banff National Park",
-          "Lake Louise",
-          "Banff Gondola"
-        ],
-        "estimatedCost": "6000",
-        "rating": "4.8",
-        "activity": [
-          "Hiking in Moraine Lake",
-          "Skiing in Sunshine Village",
-          "Relaxing in Banff Upper Hot Springs"
-        ],
-        "food": [
-          "Bison Burger",
-          "Alberta Beef Steak",
-          "Maple Syrup Treats"
-        ],
-        "id": "14"
-  
-  ,"img":"https://images.unsplash.com/photo-1581259021841-a16d7c2a777d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFuZmZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"    },
-      {
-        "name": "Quebec City",
-        "country": "Canada",
-        "description": "Quebec City is a charming, historic city with a European feel, featuring cobblestone streets, an impressive fortress, and a lively cultural scene.",
-        "attractions": [
-          "Château Frontenac",
-          "Old Quebec",
-          "Plains of Abraham"
-        ],
-        "estimatedCost": "3800",
-        "rating": "4.4",
-        "activity": [
-          "Walking Tour of Old Quebec",
-          "Visit Montmorency Falls",
-          "Experience Winter Carnival"
-        ],
-        "food": [
-          "Poutine",
-          "Tourtière",
-          "Cider"
-        ],
+  {
+    "name": "Amsterdam",
+    "country": "Netherlands",
+    "description": "Amsterdam is the capital of the Netherlands, known for its picturesque canals, historic architecture, and vibrant cultural scene.",
+    "attractions": [
+      "Rijksmuseum",
+      "Van Gogh Museum",
+      "Anne Frank House"
+    ],
+    "estimatedCost": "326560",
+    "rating": "4.5",
+    "activity": [
+      "Boat Tour",
+      "Biking",
+      "Visiting Coffee Shops"
+    ],
+    "food": [
+      "Stroopwafel",
+      "Poffertjes",
+      "Herring"
+    ],
+    "id": "1",
+    "img": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjE5NTF8MHwxfHNlYXJjaHwxfHxBbXN0ZXJkYW18ZW58MHx8fHwxNjg5ODM5MTUwfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "name": "Rotterdam",
+    "country": "Netherlands",
+    "description": "Rotterdam is a modern city with innovative architecture, lively festivals, and a bustling port, making it a must-visit destination.",
+    "attractions": [
+      "Euromast Tower",
+      "Markthal",
+      "Kinderdijk Windmills"
+    ],
+    "estimatedCost": "290500",
+    "rating": "4.2",
+    "activity": [
+      "Cube Houses Tour",
+      "Harbor Cruise",
+      "Cycling in Kralingse Bos"
+    ],
+    "food": [
+      "Bitterballen",
+      "Haring",
+      "Erwtensoep"
+    ],
+    "id": "2",
+    "img": "https://images.unsplash.com/photo-1572202378710-71d8b1cce96c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjE5NTF8MHwxfHNlYXJjaHwxfHxSb3R0ZXJkYW18ZW58MHx8fHwxNjg5ODM5MTUxfDA&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "name": "Utrecht",
+    "country": "Netherlands",
+    "description": "Utrecht is a charming city with beautiful canals, historic buildings, and a lively university culture.",
+    "attractions": [
+      "Dom Tower",
+      "Museum Speelklok",
+      "Griftpark"
+    ],
+    "estimatedCost": "207500",
+    "rating": "4.0",
+    "activity": [
+      "Exploring Canals",
+      "Climbing Dom Tower",
+      "Visiting Local Cafes"
+    ],
+    "food": [
+      "Stamppot",
+      "Oliebollen",
+      "Appeltaart"
+    ],
+    "id": "3",
+    "img": "https://images.unsplash.com/photo-1564085027787-7f8911ca8d91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjE5NTF8MHwxfHNlYXJjaHwxfHxVdHJlY2h0fGVufDB8fHx8MTY4OTg1NzUzMXww&ixlib=rb-4.0.3&q=80&w=1080"
+  },
+  {
+    "name": "The Hague",
+    "country": "Netherlands",
+    "description": "The Hague is the seat of the Dutch government and boasts elegant architecture, beautiful beaches, and world-class museums.",
+    "attractions": [
+      "Binnenhof",
+      "Mauritshuis",
+      "Scheveningen Beach"
+    ],
+    "estimatedCost": "249000",
+    "rating": "4.3",
+    "activity": [
+      "Visiting Peace Palace",
+      "Beach Volleyball",
+      "Museum Hopping"
+    ],
+    "food": [
+      "Haring met Ui",
+      "Haagse Hopjes",
+      "Poffertjes"
+    ],
+    "id": "4",
+    "img": "https://images.unsplash.com/photo-1551039495-a95308f3f6b4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8VGhlJTIwaGFndWV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Maastricht",
+    "country": "Netherlands",
+    "description": "Maastricht is a charming city with medieval architecture, cobblestone streets, and a rich history dating back to Roman times.",
+    "attractions": [
+      "Vrijthof Square",
+      "Bonnefanten Museum",
+      "St. Servaasbrug"
+    ],
+    "estimatedCost": "232400",
+    "rating": "4.1",
+    "activity": [
+      "Strolling in Old Town",
+      "Boat Cruise on Meuse River",
+      "Visit Caves"
+    ],
+    "food": [
+      "Limburgse Vlaai",
+      "Zuurvlees",
+      "Bock Beer"
+    ],
+    "id": "5",
+    "img": "https://images.unsplash.com/photo-1631107452534-b8f9868a8b20?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWFhc3RyaWNodHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Krakow",
+    "country": "Poland",
+    "description": "Krakow is a historic city with a rich cultural heritage, featuring a stunning medieval Old Town, impressive architecture, and a vibrant arts scene.",
+    "attractions": [
+      "Wawel Castle",
+      "Main Market Square",
+      "Auschwitz-Birkenau Memorial"
+    ],
+    "estimatedCost": "290500",
+    "rating": "4.6",
+    "activity": [
+      "Wawel Cathedral Tour",
+      "Rynek Underground Museum",
+      "Exploring Kazimierz District"
+    ],
+    "food": [
+      "Pierogi",
+      "Obwarzanek Krakowski",
+      "Zurek"
+    ],
+    "id": "6",
+    "img": "https://images.unsplash.com/photo-1562050380-55da3bae840c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8S3Jha293fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Warsaw",
+    "country": "Poland",
+    "description": "Warsaw, the capital city, is a vibrant metropolis with a mix of modern skyscrapers and meticulously reconstructed historical landmarks, symbolizing the nation's resilience.",
+    "attractions": [
+      "Royal Castle",
+      "Łazienki Park",
+      "Warsaw Uprising Museum"
+    ],
+    "estimatedCost": "326560",
+    "rating": "4.5",
+    "activity": [
+      "Old Town Walking Tour",
+      "Vistula River Cruise",
+      "Chopin Concert"
+    ],
+    "food": [
+      "Pierogi",
+      "Kielbasa",
+      "Bigos"
+    ],
+    "id": "7",
+    "img": "https://images.unsplash.com/photo-1607078486875-a697a8a38e87?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8d2Fyc2F3fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Gdansk",
+    "country": "Poland",
+    "description": "Gdansk is a picturesque coastal city with a fascinating maritime history, characterized by colorful buildings, charming streets, and Baltic Sea views.",
+    "attractions": [
+      "Long Market",
+      "St. Mary's Church",
+      "Westerplatte"
+    ],
+    "estimatedCost": "249000",
+    "rating": "4.4",
+    "activity": [
+      "Strolling along Motława River",
+      "Visiting Solidarity Museum",
+      "Relaxing at Sopot Beach"
+    ],
+    "food": [
+      "Smoked Fish",
+      "Pierogi filled with Seafood",
+      "Pomuchla"
+    ],
+    "id": "8",
+    "img": "https://images.unsplash.com/photo-1623130622557-8fab31968b8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R2RhbnNrfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Wroclaw",
+    "country": "Poland",
+    "description": "Wroclaw is a charming city known for its beautifully preserved medieval architecture, lively Market Square, and numerous bridges over the Oder River.",
+    "attractions": [
+      "Ostrów Tumski",
+      "Racławice Panorama",
+      "Centennial Hall"
+    ],
+    "estimatedCost": "232400",
+    "rating": "4.3",
+    "activity": [
+      "Odra River Cruise",
+      "Gnomes Hunting",
+      "Botanical Garden Visit"
+    ],
+    "food": [
+      "Kluski Śląskie",
+      "Żurek",
+      "Karkówka"
+    ],
+    "id": "9",
+    "img": "https://images.unsplash.com/photo-1563177978-4c5ffc081b2a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8V3JvY2xhd3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Zakopane",
+    "country": "Poland",
+    "description": "Zakopane is a popular mountain resort town nestled in the Tatra Mountains, known for its stunning landscapes, ski slopes, and unique Goral culture.",
+    "attractions": [
+      "Tatra National Park",
+      "Krupówki Street",
+      "Gubałówka Hill"
+    ],
+    "estimatedCost": "265600",
+    "rating": "4.7",
+    "activity": [
+      "Hiking in Tatra Mountains",
+      "Skiing",
+      "Thermal Baths at Chochołowskie Termy"
+    ],
+    "food": [
+      "Oscypek",
+      "Kwaśnica",
+      "Krupnik"
+    ],
+    "id": "10",
+    "img": "https://images.unsplash.com/photo-1585297681097-97293f29475d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8WmFrb3BhbmV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Toronto",
+    "country": "Canada",
+    "description": "Toronto is Canada's largest city, a vibrant metropolis with diverse neighborhoods, iconic landmarks like the CN Tower, and a thriving arts and culture scene.",
+    "attractions": [
+      "CN Tower",
+      "Royal Ontario Museum",
+      "Distillery District"
+    ],
+    "estimatedCost": "37290500",
+    "rating": "4.7",
+    "activity": [
+      "Harbourfront Centre",
+      "Explore Toronto Islands",
+      "Visit Kensington Market"
+    ],
+    "food": [
+      "Poutine",
+      "Peameal Bacon Sandwich",
+      "Butter Tarts"
+    ],
+    "id": "11",
+    "img": "https://images.unsplash.com/photo-1486325212027-8081e485255e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VG9yb250b3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Vancouver",
+    "country": "Canada",
+    "description": "Vancouver is a coastal city known for its stunning natural beauty, surrounded by mountains and ocean, offering a mix of outdoor activities and urban experiences.",
+    "attractions": [
+      "Stanley Park",
+      "Granville Island",
+      "Capilano Suspension Bridge"
+    ],
+    "estimatedCost": "41415000",
+    "rating": "4.6",
+    "activity": [
+      "Grouse Mountain Hike",
+      "Seawall Biking",
+      "Explore Gastown"
+    ],
+    "food": [
+      "Salmon",
+      "Japadog",
+      "Nanaimo Bar"
+    ],
+    "id": "12",
+    "img": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8VmFuY291dmVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Montreal",
+    "country": "Canada",
+    "description": "Montreal is a vibrant city with a strong French influence, known for its historic architecture, artsy neighborhoods, and lively festivals.",
+    "attractions": [
+      "Old Montreal",
+      "Montreal Museum of Fine Arts",
+      "Mount Royal Park"
+    ],
+    "estimatedCost": "326560",
+    "rating": "4.5",
+    "activity": [
+      "Explore Plateau-Mont-Royal",
+      "Bike along Lachine Canal",
+      "Experience Jazz Festival"
+    ],
+    "food": [
+      "Bagels",
+      "Poutine",
+      "Smoked Meat Sandwich"
+    ],
+    "id": "13",
+    "img": "https://images.unsplash.com/photo-1470181942237-78ce33fec141?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW9udHJlYWx8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Banff",
+    "country": "Canada",
+    "description": "Banff is a picturesque resort town located in the Rocky Mountains, offering stunning alpine landscapes, hot springs, and abundant wildlife.",
+    "attractions": [
+      "Banff National Park",
+      "Lake Louise",
+      "Banff Gondola"
+    ],
+    "estimatedCost": "498000",
+    "rating": "4.8",
+    "activity": [
+      "Hiking in Moraine Lake",
+      "Skiing in Sunshine Village",
+      "Relaxing in Banff Upper Hot Springs"
+    ],
+    "food": [
+      "Bison Burger",
+      "Alberta Beef Steak",
+      "Maple Syrup Treats"
+    ],
+    "id": "14",
+    "img": "https://images.unsplash.com/photo-1581259021841-a16d7c2a777d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFuZmZ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "name": "Quebec City",
+    "country": "Canada",
+    "description": "Quebec City is a charming, historic city with a European feel, featuring cobblestone streets, an impressive fortress, and a lively cultural scene.",
+    "attractions": [
+      "Château Frontenac",
+      "Old Quebec",
+      "Plains of Abraham"
+    ],
+    "estimatedCost": "315400",
+    "rating": "4.4",
+    "activity": [
+      "Walking Tour of Old Quebec",
+      "Visit Montmorency Falls",
+      "Experience Winter Carnival"
+    ],
+    "food": [
+      "Poutine",
+      "Tourtière",
+      "Cider"
+    ],
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
         "id": "15"
   
   ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
@@ -458,7 +460,7 @@
           "Jerónimos Monastery",
           "Castelo de São Jorge"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.7",
         "activity": [
           "Tram 28 Ride",
@@ -482,7 +484,241 @@
           "Clerigos Tower",
           "Serralves Museum"
         ],
-        "estimatedCost": "3500",
+        "estimatedCost": "290500",
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
+        "id": "15"
+  
+  ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "description": "Lisbon, the capital city of Portugal, is a charming destination with narrow cobblestone streets, colorful buildings, and stunning viewpoints over the Tagus River.",
+        "attractions": [
+          "Belém Tower",
+          "Jerónimos Monastery",
+          "Castelo de São Jorge"
+        ],
+        "estimatedCost": "326560",
+        "rating": "4.7",
+        "activity": [
+          "Tram 28 Ride",
+          "Explore Alfama District",
+          "Visit LX Factory"
+        ],
+        "food": [
+          "Pastéis de Nata",
+          "Bacalhau",
+          "Sardines"
+        ],
+        "id": "16"
+  
+  ,"img":"https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGlzYm9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "description": "Porto is a picturesque city known for its Port wine cellars, historic Ribeira district, and iconic Dom Luís I Bridge crossing the Douro River.",
+        "attractions": [
+          "Ribeira Square",
+          "Clerigos Tower",
+          "Serralves Museum"
+        ],
+        "estimatedCost": "290500",
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
+        "id": "15"
+  
+  ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "description": "Lisbon, the capital city of Portugal, is a charming destination with narrow cobblestone streets, colorful buildings, and stunning viewpoints over the Tagus River.",
+        "attractions": [
+          "Belém Tower",
+          "Jerónimos Monastery",
+          "Castelo de São Jorge"
+        ],
+        "estimatedCost": "326560",
+        "rating": "4.7",
+        "activity": [
+          "Tram 28 Ride",
+          "Explore Alfama District",
+          "Visit LX Factory"
+        ],
+        "food": [
+          "Pastéis de Nata",
+          "Bacalhau",
+          "Sardines"
+        ],
+        "id": "16"
+  
+  ,"img":"https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGlzYm9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "description": "Porto is a picturesque city known for its Port wine cellars, historic Ribeira district, and iconic Dom Luís I Bridge crossing the Douro River.",
+        "attractions": [
+          "Ribeira Square",
+          "Clerigos Tower",
+          "Serralves Museum"
+        ],
+        "estimatedCost": "290500",
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
+        "id": "15"
+  
+  ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "description": "Lisbon, the capital city of Portugal, is a charming destination with narrow cobblestone streets, colorful buildings, and stunning viewpoints over the Tagus River.",
+        "attractions": [
+          "Belém Tower",
+          "Jerónimos Monastery",
+          "Castelo de São Jorge"
+        ],
+        "estimatedCost": "326560",
+        "rating": "4.7",
+        "activity": [
+          "Tram 28 Ride",
+          "Explore Alfama District",
+          "Visit LX Factory"
+        ],
+        "food": [
+          "Pastéis de Nata",
+          "Bacalhau",
+          "Sardines"
+        ],
+        "id": "16"
+  
+  ,"img":"https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGlzYm9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "description": "Porto is a picturesque city known for its Port wine cellars, historic Ribeira district, and iconic Dom Luís I Bridge crossing the Douro River.",
+        "attractions": [
+          "Ribeira Square",
+          "Clerigos Tower",
+          "Serralves Museum"
+        ],
+        "estimatedCost": "290500",
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
+        "id": "15"
+  
+  ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "description": "Lisbon, the capital city of Portugal, is a charming destination with narrow cobblestone streets, colorful buildings, and stunning viewpoints over the Tagus River.",
+        "attractions": [
+          "Belém Tower",
+          "Jerónimos Monastery",
+          "Castelo de São Jorge"
+        ],
+        "estimatedCost": "326560",
+        "rating": "4.7",
+        "activity": [
+          "Tram 28 Ride",
+          "Explore Alfama District",
+          "Visit LX Factory"
+        ],
+        "food": [
+          "Pastéis de Nata",
+          "Bacalhau",
+          "Sardines"
+        ],
+        "id": "16"
+  
+  ,"img":"https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGlzYm9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "description": "Porto is a picturesque city known for its Port wine cellars, historic Ribeira district, and iconic Dom Luís I Bridge crossing the Douro River.",
+        "attractions": [
+          "Ribeira Square",
+          "Clerigos Tower",
+          "Serralves Museum"
+        ],
+        "estimatedCost": "290500",
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
+        "id": "15"
+  
+  ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "description": "Lisbon, the capital city of Portugal, is a charming destination with narrow cobblestone streets, colorful buildings, and stunning viewpoints over the Tagus River.",
+        "attractions": [
+          "Belém Tower",
+          "Jerónimos Monastery",
+          "Castelo de São Jorge"
+        ],
+        "estimatedCost": "326560",
+        "rating": "4.7",
+        "activity": [
+          "Tram 28 Ride",
+          "Explore Alfama District",
+          "Visit LX Factory"
+        ],
+        "food": [
+          "Pastéis de Nata",
+          "Bacalhau",
+          "Sardines"
+        ],
+        "id": "16"
+  
+  ,"img":"https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGlzYm9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "description": "Porto is a picturesque city known for its Port wine cellars, historic Ribeira district, and iconic Dom Luís I Bridge crossing the Douro River.",
+        "attractions": [
+          "Ribeira Square",
+          "Clerigos Tower",
+          "Serralves Museum"
+        ],
+        "estimatedCost": "290500",
+    "id": "15",
+    "img": "https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3
+        "id": "15"
+  
+  ,"img":"https://images.unsplash.com/photo-1540638185826-7b1a01210c2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UXVlYmVjJTIwQ2l0eXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Lisbon",
+        "country": "Portugal",
+        "description": "Lisbon, the capital city of Portugal, is a charming destination with narrow cobblestone streets, colorful buildings, and stunning viewpoints over the Tagus River.",
+        "attractions": [
+          "Belém Tower",
+          "Jerónimos Monastery",
+          "Castelo de São Jorge"
+        ],
+        "estimatedCost": "326560",
+        "rating": "4.7",
+        "activity": [
+          "Tram 28 Ride",
+          "Explore Alfama District",
+          "Visit LX Factory"
+        ],
+        "food": [
+          "Pastéis de Nata",
+          "Bacalhau",
+          "Sardines"
+        ],
+        "id": "16"
+  
+  ,"img":"https://images.unsplash.com/photo-1588535684923-900727736ac0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8TGlzYm9ufGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60"    },
+      {
+        "name": "Porto",
+        "country": "Portugal",
+        "description": "Porto is a picturesque city known for its Port wine cellars, historic Ribeira district, and iconic Dom Luís I Bridge crossing the Douro River.",
+        "attractions": [
+          "Ribeira Square",
+          "Clerigos Tower",
+          "Serralves Museum"
+        ],
+        "estimatedCost": "290500",
         "rating": "4.6",
         "activity": [
           "Port Wine Tasting",
@@ -506,7 +742,7 @@
           "Ria Formosa Boat Tour",
           "Faro Cathedral"
         ],
-        "estimatedCost": "3000",
+        "estimatedCost": "249000",
         "rating": "4.4",
         "activity": [
           "Beach Day at Ilha Deserta",
@@ -530,7 +766,7 @@
           "Quinta da Regaleira",
           "Moorish Castle"
         ],
-        "estimatedCost": "4200",
+        "estimatedCost": "348600",
         "rating": "4.8",
         "activity": [
           "Explore Sintra's Historic Center",
@@ -554,7 +790,7 @@
           "Cathedral of Évora",
           "Chapel of Bones"
         ],
-        "estimatedCost": "2800",
+        "estimatedCost": "232400",
         "rating": "4.5",
         "activity": [
           "Explore Évora's Historic Center",
@@ -578,7 +814,7 @@
           "Kremlin and St. Basil's Cathedral",
           "Bolshoi Theatre"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.8",
         "activity": [
           "Visiting Moscow Metro Stations",
@@ -602,7 +838,7 @@
           "Peter and Paul Fortress",
           "Church of the Savior on Spilled Blood"
         ],
-        "estimatedCost": "4800",
+        "estimatedCost": "398400",
         "rating": "4.7",
         "activity": [
           "Walking along Nevsky Prospect",
@@ -626,7 +862,7 @@
           "Kul Sharif Mosque",
           "Bauman Street"
         ],
-        "estimatedCost": "3800",
+        "estimatedCost": "315400",
         "rating": "4.5",
         "activity": [
           "Explore Kazan Riviera",
@@ -650,7 +886,7 @@
           "Sochi Park",
           "Akhun Mountain"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.6",
         "activity": [
           "Swimming in the Black Sea",
@@ -674,7 +910,7 @@
           "Europe-Asia Border",
           "Vysotsky Skyscraper"
         ],
-        "estimatedCost": "3200",
+        "estimatedCost": "265600",
         "rating": "4.4",
         "activity": [
           "Visit QWERTY Monument",
@@ -698,7 +934,7 @@
           "Batu Caves",
           "Merdeka Square"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.7",
         "activity": [
           "Shopping at Bukit Bintang",
@@ -722,7 +958,7 @@
           "Kek Lok Si Temple",
           "Penang Hill"
         ],
-        "estimatedCost": "3800",
+        "estimatedCost": "315400",
         "rating": "4.6",
         "activity": [
           "Food Hunting in Penang",
@@ -746,7 +982,7 @@
           "Jonker Street",
           "A Famosa"
         ],
-        "estimatedCost": "3200",
+        "estimatedCost": "265600",
         "rating": "4.5",
         "activity": [
           "River Cruise in Malacca River",
@@ -760,7 +996,7 @@
         ],
         "id": "28"
   
-  ,"img":"https://images.unsplash.com/photo-1589733000502-225e3f26fb8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWFsYWNjYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
+  ,"img":"https://images.unsplash.com/photo-158973249000502-225e3f26fb8f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWFsYWNjYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"    },
       {
         "name": "Langkawi",
         "country": "Malaysia",
@@ -770,7 +1006,7 @@
           "Eagle Square",
           "Tanah Rata Waterfall"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.8",
         "activity": [
           "Island Hopping Tour",
@@ -794,7 +1030,7 @@
           "Ipoh Old Town",
           "Sam Poh Tong Temple"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.4",
         "activity": [
           "Explore Concubine Lane",
@@ -818,7 +1054,7 @@
           "Lan Kwai Fong",
           "Man Mo Temple"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.7",
         "activity": [
           "Tram Ride to the Peak",
@@ -842,7 +1078,7 @@
           "Hong Kong Cultural Centre",
           "Clock Tower"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.6",
         "activity": [
           "Star Ferry Ride",
@@ -866,7 +1102,7 @@
           "Temple Street Night Market",
           "Flower Market"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.5",
         "activity": [
           "Street Food Tasting",
@@ -890,7 +1126,7 @@
           "Victoria Park",
           "Hysan Place"
         ],
-        "estimatedCost": "4200",
+        "estimatedCost": "348600",
         "rating": "4.4",
         "activity": [
           "Shopping in Causeway Bay",
@@ -914,7 +1150,7 @@
           "Ngong Ping 360",
           "Hong Kong Disneyland"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.7",
         "activity": [
           "Cable Car Ride",
@@ -938,7 +1174,7 @@
           "Parthenon",
           "Plaka"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.7",
         "activity": [
           "Visit Acropolis Museum",
@@ -962,7 +1198,7 @@
           "Fira",
           "Red Beach"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.8",
         "activity": [
           "Sail around Caldera",
@@ -986,7 +1222,7 @@
           "Samaria Gorge",
           "Chania Old Town"
         ],
-        "estimatedCost": "4800",
+        "estimatedCost": "398400",
         "rating": "4.6",
         "activity": [
           "Relax on Elafonissi Beach",
@@ -1010,7 +1246,7 @@
           "Aristotelous Square",
           "Rotunda of Galerius"
         ],
-        "estimatedCost": "4200",
+        "estimatedCost": "348600",
         "rating": "4.5",
         "activity": [
           "Visit Archaeological Museum",
@@ -1034,7 +1270,7 @@
           "Lindos Acropolis",
           "Butterfly Valley"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.4",
         "activity": [
           "Stroll in Rhodes Old Town",
@@ -1058,7 +1294,7 @@
           "St. Stephen's Cathedral",
           "Belvedere Palace"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.7",
         "activity": [
           "Visit Vienna State Opera",
@@ -1082,7 +1318,7 @@
           "Mirabell Palace",
           "Salzburg Cathedral"
         ],
-        "estimatedCost": "4800",
+        "estimatedCost": "398400",
         "rating": "4.6",
         "activity": [
           "Sound of Music Tour",
@@ -1106,7 +1342,7 @@
           "Nordkette Cable Car",
           "Ambras Castle"
         ],
-        "estimatedCost": "4200",
+        "estimatedCost": "348600",
         "rating": "4.5",
         "activity": [
           "Skiing in Nordkette",
@@ -1130,7 +1366,7 @@
           "Schlossberg",
           "Graz Art Museum"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.4",
         "activity": [
           "Explore Eggenberg Palace",
@@ -1154,7 +1390,7 @@
           "Dachstein Ice Cave",
           "Five Fingers Viewing Platform"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.7",
         "activity": [
           "Boat Tour on Hallstätter See",
@@ -1178,7 +1414,7 @@
           "Shibuya Crossing",
           "Tsukiji Outer Market"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.7",
         "activity": [
           "Visit Tokyo Skytree",
@@ -1202,7 +1438,7 @@
           "Fushimi Inari Taisha",
           "Arashiyama Bamboo Grove"
         ],
-        "estimatedCost": "4800",
+        "estimatedCost": "398400",
         "rating": "4.6",
         "activity": [
           "Experience a Tea Ceremony",
@@ -1226,7 +1462,7 @@
           "Dotonbori",
           "Shinsaibashi Shopping Street"
         ],
-        "estimatedCost": "4200",
+        "estimatedCost": "348600",
         "rating": "4.5",
         "activity": [
           "Taste Okonomiyaki",
@@ -1250,7 +1486,7 @@
           "Itsukushima Shrine (Miyajima)",
           "Hiroshima Castle"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.4",
         "activity": [
           "Visit Hiroshima Peace Memorial Museum",
@@ -1274,7 +1510,7 @@
           "Nara Park",
           "Kasuga Taisha"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.7",
         "activity": [
           "Meet Nara's Deer",
@@ -1298,7 +1534,7 @@
           "Bangalore Palace",
           "Cubbon Park"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.1",
         "activity": [
           "Visiting Innovative Tech Parks",
@@ -1322,7 +1558,7 @@
           "Golconda Fort",
           "Hussain Sagar Lake"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "3.7",
         "activity": [
           "Exploring the Old City of Hyderabad",
@@ -1346,7 +1582,7 @@
           "Basilica of Bom Jesus",
           "Dudhsagar Falls"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.5",
         "activity": [
           "Relaxing on the Beaches",
@@ -1370,7 +1606,7 @@
           "Jallianwala Bagh",
           "Wagah Border"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "2.9",
         "activity": [
           "Visiting the Golden Temple at Sunrise",
@@ -1394,7 +1630,7 @@
           "Aga Khan Palace",
           "Sinhagad Fort"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "1.8",
         "activity": [
           "Exploring the Pataleshwar Cave Temple",
@@ -1418,7 +1654,7 @@
           "Munnar Tea Gardens",
           "Kochi Fort"
         ],
-        "estimatedCost": "6500",
+        "estimatedCost": "539500",
         "rating": "4.3",
         "activity": [
           "Houseboat Cruise in Alleppey",
@@ -1442,7 +1678,7 @@
           "Udayagiri and Khandagiri Caves",
           "Nandankanan Zoological Park"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.1",
         "activity": [
           "Visiting the Odisha State Museum",
@@ -1466,7 +1702,7 @@
           "Hawa Mahal",
           "City Palace"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "3.5",
         "activity": [
           "Elephant Ride at Amer Fort",
@@ -1490,7 +1726,7 @@
           "Dashashwamedh Ghat",
           "Sarnath"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "2.7",
         "activity": [
           "Boat Ride on the Ganges",
@@ -1514,7 +1750,7 @@
           "Parmarth Niketan",
           "Triveni Ghat"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "1.9",
         "activity": [
           "Yoga and Meditation Retreats",
@@ -1538,7 +1774,7 @@
           "Qutub Minar",
           "India Gate"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.2",
         "activity": [
           "Heritage Walk",
@@ -1562,7 +1798,7 @@
           "Howrah Bridge",
           "Indian Museum"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.4",
         "activity": [
           "Tram Ride",
@@ -1586,7 +1822,7 @@
           "Kapaleeshwarar Temple",
           "Fort St. George"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.1",
         "activity": [
           "Visit to Mahabalipuram",
@@ -1610,7 +1846,7 @@
           "Jakhu Temple",
           "The Ridge"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "4.6",
         "activity": [
           "Toy Train Ride",
@@ -1634,7 +1870,7 @@
           "Chinese Fishing Nets",
           "Mattancherry Palace"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.3",
         "activity": [
           "Houseboat Cruise in Backwaters",
@@ -1658,7 +1894,7 @@
           "Marine Drive",
           "Elephanta Caves"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4",
         "activity": [
           "Cycling",
@@ -1682,7 +1918,7 @@
           "Hawa Mahal",
           "City Palace"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "4.5",
         "activity": [
           "Camel Safari",
@@ -1706,7 +1942,7 @@
           "Agra Fort",
           "Fatehpur Sikri"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.8",
         "activity": [
           "Heritage Walk",
@@ -1730,7 +1966,7 @@
           "Dashashwamedh Ghat",
           "Sarnath"
         ],
-        "estimatedCost": "3000",
+        "estimatedCost": "249000",
         "rating": "4.6",
         "activity": [
           "Boat Ride on Ganges",
@@ -1754,7 +1990,7 @@
           "Lake Pichola",
           "Jag Mandir"
         ],
-        "estimatedCost": "7000",
+        "estimatedCost": "581000",
         "rating": "4.7",
         "activity": [
           "Boat Ride on Lake Pichola",
@@ -1802,7 +2038,7 @@
           "Royal Mile",
           "Arthur's Seat"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "4.5",
         "activity": [
           "Exploring the Edinburgh Fringe Festival",
@@ -1826,7 +2062,7 @@
           "Manchester Cathedral",
           "The Lowry"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.3",
         "activity": [
           "Manchester United Stadium Tour",
@@ -1850,7 +2086,7 @@
           "Radcliffe Camera",
           "Ashmolean Museum"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.6",
         "activity": [
           "Punting on the River Cherwell",
@@ -1874,7 +2110,7 @@
           "Bath Abbey",
           "The Royal Crescent"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.4",
         "activity": [
           "Thermae Bath Spa Experience",
@@ -1898,7 +2134,7 @@
           "Wat Arun",
           "Chatuchak Weekend Market"
         ],
-        "estimatedCost": "7000",
+        "estimatedCost": "581000",
         "rating": "4.2",
         "activity": [
           "Tuk-Tuk Tour",
@@ -1922,7 +2158,7 @@
           "Wat Phra Singh",
           "Sunday Night Walking Street"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "3.9",
         "activity": [
           "Elephant Sanctuary Visit",
@@ -1946,7 +2182,7 @@
           "Phi Phi Islands",
           "Big Buddha"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "3.7",
         "activity": [
           "Island Hopping",
@@ -1970,7 +2206,7 @@
           "Phi Phi Islands",
           "Tiger Cave Temple"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.3",
         "activity": [
           "Rock Climbing",
@@ -1994,7 +2230,7 @@
           "Wat Phra Si Sanphet",
           "Ayutthaya Historical Park"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.1",
         "activity": [
           "Bicycle Tour of the Ancient City",
@@ -2018,7 +2254,7 @@
           "Berlin Wall",
           "Museum Island"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "3.8",
         "activity": [
           "Visit to Checkpoint Charlie",
@@ -2042,7 +2278,7 @@
           "Nymphenburg Palace",
           "English Garden"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.1",
         "activity": [
           "Beer Tasting in a Beer Hall",
@@ -2066,7 +2302,7 @@
           "Old Town",
           "Hohenzollern Bridge"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "2.5",
         "activity": [
           "Cruise on the Rhine River",
@@ -2090,7 +2326,7 @@
           "HafenCity",
           "St. Michael's Church"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "3.2",
         "activity": [
           "Harbor Boat Tour",
@@ -2114,7 +2350,7 @@
           "Philosophers' Walk",
           "Old Bridge"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "2.9",
         "activity": [
           "Exploring the Old Town",
@@ -2138,7 +2374,7 @@
           "Chapultepec Castle",
           "Frida Kahlo Museum"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.1",
         "activity": [
           "Exploring Teotihuacan",
@@ -2162,7 +2398,7 @@
           "Chichen Itza",
           "Tulum"
         ],
-        "estimatedCost": "7000",
+        "estimatedCost": "581000",
         "rating": "4.5",
         "activity": [
           "Snorkeling in the Great Mesoamerican Reef",
@@ -2186,7 +2422,7 @@
           "Hierve el Agua",
           "Santo Domingo Church"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "3.7",
         "activity": [
           "Mole Cooking Class",
@@ -2210,7 +2446,7 @@
           "Los Arcos National Marine Park",
           "Zona Romantica"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "2.9",
         "activity": [
           "Water Sports and Scuba Diving",
@@ -2234,7 +2470,7 @@
           "Uxmal",
           "Celestun"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "1.8",
         "activity": [
           "Exploring Chichen Itza",
@@ -2258,7 +2494,7 @@
           "Blue Mosque",
           "Topkapi Palace"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "4.3",
         "activity": [
           "Cruise along the Bosphorus",
@@ -2282,7 +2518,7 @@
           "Hot Air Balloon Ride",
           "Uchisar Castle"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.5",
         "activity": [
           "Exploring Underground Cities",
@@ -2306,7 +2542,7 @@
           "Duden Waterfalls",
           "Termessos"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "3.9",
         "activity": [
           "Boat Trip along the Coast",
@@ -2330,7 +2566,7 @@
           "Cleopatra's Pool",
           "Travertine Terraces"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "2.7",
         "activity": [
           "Swimming in the Thermal Pools",
@@ -2354,7 +2590,7 @@
           "Mausoleum at Halicarnassus",
           "Windmills"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "1.5",
         "activity": [
           "Sunbathing at Gumbet Beach",
@@ -2378,7 +2614,7 @@
           "Vatican City",
           "Trevi Fountain"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "4.3",
         "activity": [
           "Visit to the Roman Forum",
@@ -2402,7 +2638,7 @@
           "Duomo",
           "Ponte Vecchio"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.5",
         "activity": [
           "Admiring Michelangelo's David",
@@ -2426,7 +2662,7 @@
           "Rialto Bridge",
           "Doge's Palace"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.1",
         "activity": [
           "Gondola Ride along the Canals",
@@ -2450,7 +2686,7 @@
           "Galleria Vittorio Emanuele II",
           "The Last Supper"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "4.2",
         "activity": [
           "Shopping in the Fashion District",
@@ -2474,7 +2710,7 @@
           "Naples Cathedral",
           "National Archaeological Museum"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "4.4",
         "activity": [
           "Exploring the Historic Center",
@@ -2498,7 +2734,7 @@
           "Times Square",
           "Central Park"
         ],
-        "estimatedCost": "7000",
+        "estimatedCost": "581000",
         "rating": "4.1",
         "activity": [
           "Exploring Broadway",
@@ -2522,7 +2758,7 @@
           "Santa Monica Pier",
           "Getty Center"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "3.7",
         "activity": [
           "Visiting Universal Studios",
@@ -2546,7 +2782,7 @@
           "Art Institute of Chicago",
           "Navy Pier"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.5",
         "activity": [
           "Taking an Architectural Boat Tour",
@@ -2570,7 +2806,7 @@
           "Jackson Square",
           "Steamboat Natchez"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "4.3",
         "activity": [
           "Enjoying Live Jazz on Bourbon Street",
@@ -2594,7 +2830,7 @@
           "Alcatraz Island",
           "Fisherman's Wharf"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "2.9",
         "activity": [
           "Riding a Cable Car",
@@ -2618,7 +2854,7 @@
           "Park Güell",
           "Gothic Quarter"
         ],
-        "estimatedCost": "6500",
+        "estimatedCost": "539500",
         "rating": "4.3",
         "activity": [
           "Exploring La Rambla",
@@ -2642,7 +2878,7 @@
           "Royal Palace",
           "Retiro Park"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.1",
         "activity": [
           "Strolling along Gran Vía",
@@ -2666,7 +2902,7 @@
           "Seville Cathedral",
           "Plaza de España"
         ],
-        "estimatedCost": "4500",
+        "estimatedCost": "373500",
         "rating": "3.7",
         "activity": [
           "Exploring the Santa Cruz Quarter",
@@ -2690,7 +2926,7 @@
           "Mercado Central",
           "Bioparc Valencia"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "2.9",
         "activity": [
           "Visiting the Oceanografic",
@@ -2714,7 +2950,7 @@
           "Sacromonte",
           "Albaicin"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "1.8",
         "activity": [
           "Exploring the Albaicin Quarter",
@@ -2738,7 +2974,7 @@
           "Louvre Museum",
           "Notre-Dame Cathedral"
         ],
-        "estimatedCost": "7000",
+        "estimatedCost": "581000",
         "rating": "4.3",
         "activity": [
           "Cruise on the Seine River",
@@ -2762,7 +2998,7 @@
           "Old Town",
           "Castle Hill"
         ],
-        "estimatedCost": "6000",
+        "estimatedCost": "498000",
         "rating": "3.7",
         "activity": [
           "Relaxing on the Beach",
@@ -2786,7 +3022,7 @@
           "Vieux Lyon",
           "Musée des Confluences"
         ],
-        "estimatedCost": "5500",
+        "estimatedCost": "455395",
         "rating": "4.5",
         "activity": [
           "Culinary Tour in Les Halles de Lyon",
@@ -2810,7 +3046,7 @@
           "Notre-Dame de la Garde",
           "Calanques National Park"
         ],
-        "estimatedCost": "5000",
+        "estimatedCost": "415000",
         "rating": "2.9",
         "activity": [
           "Boat Trip to Frioul Archipelago",
@@ -2834,7 +3070,7 @@
           "Saint-André Cathedral",
           "La Cité du Vin"
         ],
-        "estimatedCost": "4000",
+        "estimatedCost": "326560",
         "rating": "1.8",
         "activity": [
           "Wine Tasting in the Vineyards",
