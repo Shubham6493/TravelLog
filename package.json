@@ -1,9 +1,11 @@
 {
   "name": "travellog",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,14 +17,8 @@
   "bugs": {
     "url": "https://github.com/Shubham6493/TravelLog/issues"
   },
-  "homepage": "https://github.com/Shubham6493/TravelLog#readme",
-  "description": "",
+  "homepage": "https://github.com/Shubham6493/TravelLog/issues#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "json": "^11.0.0",
-    "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.3",
-    "serve": "^14.2.4",
-    "server": "^1.0.41"
+    "json-server": "^0.17.3"
   }
 }
